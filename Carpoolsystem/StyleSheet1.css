@@ -1,0 +1,35 @@
+﻿/* CSS for the card design */
+.card {
+    width: 300px;
+    margin: 20px auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.ride-details {
+    padding: 10px;
+    background-color: #f3f3f3;
+    border-radius: 5px;
+}
+
+.card-text {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555;
+}
+
+.ride-details strong {
+    color: #333;
+}
